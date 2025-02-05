@@ -11,7 +11,7 @@ print(message)
 new_list[0] = 'pear'
 print(new_list)
 new_list.append('oranges')
-print(new_list)  #一般是初始化一个空列表，逐步增加数据
+print(new_list)  
 new_list.remove('pear')
 print(new_list)
 # 练习：类的模块的继承与不同模块的传递
