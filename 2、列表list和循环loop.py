@@ -7,7 +7,7 @@ print(animals[-1])  # 下标的框用列表的[]
 new_list = ['apple','banana','grapes']
 message = f'i want to eat {new_list[0]}'
 print(message)
-# 列表的操作：新增，删除，修改，修改是list[下标] = 新值，新增列表值是通过append()函数，即list.append(元素)，给末尾添加元素，删除元素是通过remove()函数,即list.remove(元素)
+
 new_list[0] = 'pear'
 print(new_list)
 new_list.append('oranges')
