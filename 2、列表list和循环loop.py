@@ -3,7 +3,7 @@ animals = ['cats','dogs','chickens']
 print(animals)
 print(type(animals))
 print(animals[0])
-print(animals[-1])  # 下标的框用列表的[]
+print(animals[-1]) 
 new_list = ['apple','banana','grapes']
 message = f'i want to eat {new_list[0]}'
 print(message)
