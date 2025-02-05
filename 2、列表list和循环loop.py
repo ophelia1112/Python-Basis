@@ -1,8 +1,7 @@
-# 列表：多种数据，例如身高，朋友，各种动物，也可以是空列表，列表用[]圈出，用逗号分隔
+
 animals = ['cats','dogs','chickens']
 print(animals)
 print(type(animals))
-# 访问列表的元素：列表数据有前后顺序，按照顺序与下标来进行访问，正数从0开始，用负数数则从右边的-1开始数，例如
 print(animals[0])
 print(animals[-1])  # 下标的框用列表的[]
 new_list = ['apple','banana','grapes']
