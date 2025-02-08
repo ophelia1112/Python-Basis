@@ -50,7 +50,7 @@ print('the number of the grades is: ',len(grades))
 
 # list and loop
 
-list1 = ['lili','amy','tom']
+list1 = ['alice','amy','tom']
 for i in list1:
     print(i)
     
