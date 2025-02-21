@@ -1,4 +1,3 @@
-
 # define a class
 class Student:
     def __init__(self,name,age):
