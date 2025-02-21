@@ -10,6 +10,10 @@ class Student:
 Tom = Student('Tom',18)
 print(Tom.name,Tom.age,Tom.introduce())
 
+
+
+
+
 # revise the attribution of the objects in class
 class StudentGrades:
     def __init__(self,name,philology,math):
